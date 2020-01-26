@@ -1,4 +1,4 @@
-(defproject rtcritical/clj-ant-tasks "1.0"
+(defproject rtcritical/clj-ant-tasks "1.0.1"
   :description "Easily run Apache Ant tasks in clojure."
   :url "https://github.com/rtcritical/clj-ant-tasks"
   :license {:name "The MIT License"
