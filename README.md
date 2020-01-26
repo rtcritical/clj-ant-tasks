@@ -8,7 +8,7 @@ Multiple ant tasks can be ran at once, allowing properties to be passed from one
 
 To install, add the following to your project `:dependencies`:
 
-	[rtcritical/clj-ant-tasks "1.0"]
+	[rtcritical/clj-ant-tasks "1.0.1"]
 
 clj-ant-tasks tested against clojure 1.7, 1.8, 1.9, and 1.10.
 
