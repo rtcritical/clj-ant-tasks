@@ -71,7 +71,7 @@ user=> (run-ant-tasks [:property {:name "file.to.delete" :value "/tmp/test.txt"}
 
 ## Tests
 
-To run the tests against Clojure 1.7, 1.8, and 1.9:
+To run the tests against Clojure 1.7, 1.8, 1.9, and 1.10:
 
 ```console
 	$ lein test-all
